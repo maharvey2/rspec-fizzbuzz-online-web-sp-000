@@ -10,6 +10,6 @@ elsif fizzbuzz(5) % 5 == 0
   puts "Buzz"
 elsif fizzbuzz(4) % 4 == 0
   puts "nil"
-
   end
+fizzbuzz()
 end
